@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/eds-enablement/:/",
+    "/content/eds-capstone/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
   ],
